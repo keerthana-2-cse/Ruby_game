@@ -27,6 +27,12 @@ This project started as an **Android app built with MIT App Inventor**, and was 
    git clone https://github.com/keerthana-2-cse/Ruby_game.git
    \`\`\`
 2. Open `index.html` in your browser — that's it, no build step needed.
+## Original Android App (MIT App Inventor)
+This web game is a ported version of the original Android app built with [MIT App Inventor](https://appinventor.mit.edu/).
+
+- [Download the .aia source file](./TTT.aia)
+
+You can open this file directly in MIT App Inventor to view or edit the original project.
 
 ## Preview of the game
 <img width="1899" height="942" alt="Screenshot 2026-09-16 195933" src="https://github.com/user-attachments/assets/93a35500-c90a-4078-93b8-4dbaac2e1e63" />
